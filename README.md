@@ -4,12 +4,6 @@
 
 `cd demo/`
 
-## Build Docker Image
-
-Build the docker image while in this directory:
-
-`docker compose build`
-
 ## Connect to Database and Start Application
 
 Run `docker compose up -d` and the application is served at `localhost:8080/api/users`
